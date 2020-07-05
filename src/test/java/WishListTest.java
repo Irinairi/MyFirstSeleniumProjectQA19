@@ -72,7 +72,7 @@ public class WishListTest {
             driver.findElement(By.cssSelector("#product_addtocart_form > div.product-shop > div.product-options-bottom > ul.add-to-links > li:nth-child(1) > a")).click();
             driver.quit();
 
-
+t
 
 
 
